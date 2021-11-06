@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pares
+comment0.text=\r\n\ classe\ Pares\r\n\ \r\n\ @author\ (Marcelo\ Paza)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=ini\ fim
+comment1.target=java.lang.String\ retornaNros(int,\ int)
+comment1.text=\r\n\ Processamento\ dos\ dados\ mesmo\ com\ invers\u00E3o\ de\ ordem\ num\u00E9rica\ inserida\r\n
+numComments=2

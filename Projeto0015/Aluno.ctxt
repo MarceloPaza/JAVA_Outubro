@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Esta\ eh\ a\ classe\ Aluno.\r\n\ Alfamidia\ -\ Programa\u00E7\u00E3o\ Java\ (orient\ de\ obj)\r\n\ Tipos\ primitivos\ -\ Usado\ bastante\ nos\ projetos\r\n\ @author\ (Marcelo\ Paza)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Aluno()
+comment2.params=nome\ idade\ email
+comment2.target=Aluno(java.lang.String,\ java.lang.Integer,\ java.lang.String)
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=idade
+comment5.target=void\ setIdade(java.lang.Integer)
+comment6.params=
+comment6.target=java.lang.Integer\ getIdade()
+comment7.params=email
+comment7.target=void\ setEmail(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getEmail()
+numComments=9
