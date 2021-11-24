@@ -1,8 +1,7 @@
 # Repositório_Java_Treinamento
 exemplos práticos feitos em Programação Java
-Orientação de objetos, Tratamento de excessões,
-Coleções, anotações, interfaces, Frameworks
-Testes de Array, JSP, Servlet, JSTL, JSF
+Orientação de objetos, Coleções, anotações, interfaces, 
+Frameworks Testes de Array, JSP, Servlet, JSTL, JSF
 Tratamento de excessões, Getters and Setters
 Criar banco de dados com MySQL Workbenk, 
 Manipulando dados de SGBD, MVC, ORM, DAO
