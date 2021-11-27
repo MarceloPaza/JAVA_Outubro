@@ -10,3 +10,4 @@ servidor web com Apache Tomcat, JPA, Hibernate, HQL,
 Constrir um CRUD completo, Webservices SOAP e REST (APIs)
 Spring Boot, Swagger, Maven, Gradle e
 Testes de software (TDD)
+Inserido nesse repositório somente aulas do modulo 1 por hora.
